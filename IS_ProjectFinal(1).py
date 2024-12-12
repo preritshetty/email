@@ -7,7 +7,7 @@ from sklearn.pipeline import make_pipeline
 from tkinter import *
 
 # --- Email Phishing Detection Model Setup ---
-# Sample phishing and non-phishing emails dataset (for testing purposes)
+# Sample phishing and non-phishing emails dataset (for testing purposes )
 emails = ["Your account has been compromised, click here to secure it", 
           "Free voucher for shopping, claim now", 
           "Meeting at 3 PM tomorrow at office", 
